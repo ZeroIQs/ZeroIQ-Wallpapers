@@ -528,17 +528,6 @@ window.WALLPAPERS_DATA = [
     "format": "JPG"
   },
   {
-    "id": "wp-v86mbtrl",
-    "title": "Nordic",
-    "filename": "nordic.png",
-    "category": "Anime & Manga",
-    "subCategory": "Anime & Manga",
-    "path": "Anime & Manga/nordic.png",
-    "sizeBytes": 153011,
-    "sizeFormatted": "0.15 MB",
-    "format": "PNG"
-  },
-  {
     "id": "wp-donnomut",
     "title": "One Piece Luffy",
     "filename": "one-piece-luffy.jpg",
@@ -4215,7 +4204,7 @@ window.WALLPAPERS_DATA = [
 ];
 window.WALLPAPERS_CATEGORIES = {
   "Animals & Nature": 15,
-  "Anime & Manga": 47,
+  "Anime & Manga": 46,
   "Cars & Vehicles": 12,
   "City & Architecture": 21,
   "Color Schemes": 42,
