@@ -1166,17 +1166,6 @@ window.WALLPAPERS_DATA = [
     "format": "PNG"
   },
   {
-    "id": "wp-xe01b0kg",
-    "title": "Wall Gruv",
-    "filename": "wall-gruv.png",
-    "category": "Color Schemes",
-    "subCategory": "Gruvbox",
-    "path": "Color Schemes/Gruvbox/wall-gruv.png",
-    "sizeBytes": 93984,
-    "sizeFormatted": "0.09 MB",
-    "format": "PNG"
-  },
-  {
     "id": "wp-o9qrypb3",
     "title": "Astronaut Nord",
     "filename": "astronaut-nord.png",
@@ -1669,17 +1658,6 @@ window.WALLPAPERS_DATA = [
     "path": "Cyberpunk & Sci-Fi/pink-mecha.png",
     "sizeBytes": 507786,
     "sizeFormatted": "0.48 MB",
-    "format": "PNG"
-  },
-  {
-    "id": "wp-6rudqgro",
-    "title": "Rocket",
-    "filename": "rocket.png",
-    "category": "Cyberpunk & Sci-Fi",
-    "subCategory": "Cyberpunk & Sci-Fi",
-    "path": "Cyberpunk & Sci-Fi/rocket.png",
-    "sizeBytes": 60293,
-    "sizeFormatted": "0.06 MB",
     "format": "PNG"
   },
   {
@@ -2332,17 +2310,6 @@ window.WALLPAPERS_DATA = [
     "format": "PNG"
   },
   {
-    "id": "wp-2ue94u26",
-    "title": "Wide Lines",
-    "filename": "wide_lines.png",
-    "category": "Minimalist & Abstract",
-    "subCategory": "Minimalist & Abstract",
-    "path": "Minimalist & Abstract/wide_lines.png",
-    "sizeBytes": 261449,
-    "sizeFormatted": "0.25 MB",
-    "format": "PNG"
-  },
-  {
     "id": "wp-5qiw3rdd",
     "title": "Yh",
     "filename": "yh.png",
@@ -2956,17 +2923,6 @@ window.WALLPAPERS_DATA = [
     "path": "OS & Technology/blue-black-girl.png",
     "sizeBytes": 221123,
     "sizeFormatted": "0.21 MB",
-    "format": "PNG"
-  },
-  {
-    "id": "wp-wk7195w9",
-    "title": "Catppuccin Rainbow Arch",
-    "filename": "catppuccin-rainbow-arch.png",
-    "category": "OS & Technology",
-    "subCategory": "OS & Technology",
-    "path": "OS & Technology/catppuccin-rainbow-arch.png",
-    "sizeBytes": 36651,
-    "sizeFormatted": "0.03 MB",
     "format": "PNG"
   },
   {
@@ -4207,12 +4163,12 @@ window.WALLPAPERS_CATEGORIES = {
   "Anime & Manga": 46,
   "Cars & Vehicles": 12,
   "City & Architecture": 21,
-  "Color Schemes": 42,
-  "Cyberpunk & Sci-Fi": 23,
+  "Color Schemes": 41,
+  "Cyberpunk & Sci-Fi": 22,
   "Dark & Gothic": 4,
-  "Minimalist & Abstract": 52,
+  "Minimalist & Abstract": 51,
   "Nature & Landscapes": 45,
-  "OS & Technology": 57,
+  "OS & Technology": 56,
   "Pixel Art & Gaming": 16,
   "Space & Cosmos": 30,
   "Superheroes & Pop Culture": 19
